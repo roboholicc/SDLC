@@ -31,4 +31,4 @@ The game will be considered sucsessful once it runs without any major bugs to im
 
 ## 6. Technical Requirements
 
-This game should be capable of running on all devices. On PC only keyboard is necessary, using arrow keys or wasd to move and space to shoot. On console joystick and buttons are needed. Finally for mobile there should be on screen buttons in order for the player to go left and right and tapping the screen should trigger shooting.
+This game should be capable of running on PC, only keyboard is necessary, using arrow keys or wasd to move and space to shoot. Having a mouse to click to shoot instead is optional.
