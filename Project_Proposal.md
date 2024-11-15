@@ -31,4 +31,4 @@ The game will be considered sucsessful once it runs without any major bugs to im
 
 ## 6. Technical Requirements
 
-This game will run on all platforms such as PC, Console, and Mobile. You will need a keyboard for the pc and a mouse for it to be able to work. You will advance into different levels if you win the round. You need to advance form the round in order to go onto the next round.
+This game should be capable of running on all devices. On PC only keyboard is necessary, using arrow keys or wasd to move and space to shoot. On console joystick and buttons are needed. Finally for mobile there should be on screen buttons in order for the player to go left and right and tapping the screen should trigger shooting.
