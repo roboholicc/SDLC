@@ -1,5 +1,7 @@
 # Test Plan for Medieval-Themed Space Invaders (Dragons Edition)**
 
+Team Members: Lily Wright, Miranda Torres-Martinez Client: Ms. Kennedy/ Ms. Charlie Date: 11/18/24
+
 ## 1. Test Plan Overview
 
 - **Objective**: Ensure the game functions as intended, focusing on player actions, dragon behaviors, collisions, scoring, and overall gameplay.
