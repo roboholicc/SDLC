@@ -48,53 +48,19 @@
 - **Inputs**: Keyboard, mouse, or game controller.
 - **Screen Resolution**: Test at various resolutions.
 
-Test Case ID
-Description
-Expected Result
-Pass/Fail
-TC01
-Verify game starts correctly
-Knight, dragons, score, and lives are displayed; game is ready to play
-
-TC02
-Test left movement of knight
-Knight moves left and stops at screen edge
-
-TC03
-Test right movement of knight
-Knight moves right and stops at screen edge
-
-TC04
-Test shooting arrows
-Arrows fire upward from the knight’s position and disappear off-screen
-
-TC05
-Test arrow collision with dragon
-Arrow removes dragon, arrow disappears, and score increments
-
-TC06
-Test fireball collision with knight
-Fireball removes one life and disappears
-
-TC07
-Test dragon movement horizontally
-Dragons move as a group and reverse direction at screen edges.
-
-TC08
-Test dragon vertical descent
-Dragons descend toward the castle wall when reaching the edge.
-
-TC09
-Test Game Over (castle breached)
-Game Over triggers when dragons reach the castle wall
-
-TC10
-Test Game Over (lives depleted)
-Game Over triggers when dragons reach the castle wall
-
-TC11
-Test Victory condition
-Victory triggers when all dragons are defeated
+| **Test Case ID** | **Description**                       | **Expected Result**                                                                 | **Pass/Fail** |
+|-------------------|---------------------------------------|-------------------------------------------------------------------------------------|---------------|
+| TC01              | Verify game starts correctly         | Knight, dragons, score, and lives are displayed; game is ready to play.             |               |
+| TC02              | Test left movement of knight         | Knight moves left and stops at screen edge.                                         |               |
+| TC03              | Test right movement of knight        | Knight moves right and stops at screen edge.                                        |               |
+| TC04              | Test shooting arrows                 | Arrows fire upward from the knight’s position and disappear off-screen.             |               |
+| TC05              | Test arrow collision with dragon     | Arrow removes dragon, arrow disappears, and score increments.                       |               |
+| TC06              | Test fireball collision with knight  | Fireball removes one life and disappears.                                           |               |
+| TC07              | Test dragon movement horizontally    | Dragons move as a group and reverse direction at screen edges.                      |               |
+| TC08              | Test dragon vertical descent         | Dragons descend toward the castle wall when reaching the edge.                      |               |
+| TC09              | Test Game Over (castle breached)     | Game Over triggers when dragons reach the castle wall.                              |               |
+| TC10              | Test Game Over (lives depleted)      | Game Over triggers when all lives are lost.                                         |               |
+| TC11              | Test Victory condition               | Victory triggers when all dragons are defeated.                                     |               |
 
 ## 5. Testing Tools
 
