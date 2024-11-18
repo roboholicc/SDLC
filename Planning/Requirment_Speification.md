@@ -2,7 +2,7 @@
 
 Game Name: Fantasy Attack (Space Invaders)
 Team Members: Lily Wright, Miranda Torres-Martinez
-Client: Ms. Kennedy/ Ms. Charlie
+Client: Mrs. Kennedy/ Ms. Charlie
 Date: 11/14/24
 
 ## Game Overview
