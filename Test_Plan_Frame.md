@@ -48,6 +48,8 @@
 - **Inputs**: Keyboard, mouse, or game controller.
 - **Screen Resolution**: Test at various resolutions.
 
+## 4. Test Cases
+
 | **Test Case ID** | **Description**                       | **Expected Result**                                                                 | **Pass/Fail** |
 |-------------------|---------------------------------------|-------------------------------------------------------------------------------------|---------------|
 | TC01              | Verify game starts correctly         | Knight, dragons, score, and lives are displayed; game is ready to play.             |               |
