@@ -1,5 +1,6 @@
-
 # User Stories and Acceptance Criterion Frame
+
+Team Members: Lily Wright, Miranda Torres-Martinez Client: Ms. Kennedy/ Ms. Charlie Date: 11/14/2024
 
 ## 1. User Story: Start Game Screen
 
