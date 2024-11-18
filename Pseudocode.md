@@ -3,13 +3,13 @@
 ## Initialize Game
 
 START
-SET screen width and height
-CREATE player at the bottom center of the screen
-CREATE a grid of fantasy creatures at the top
-SET player's score to 0
-SET player's lives to a specific number (e.g., 3)
-CREATE an empty list for Fireblast (player's and creature’s)
-SET game state to "RUNNING"
+    SET screen width and height
+    CREATE player at the bottom center of the screen
+    CREATE a grid of fantasy creatures at the top
+    SET player's score to 0
+    SET player's lives to a specific number (e.g., 3)
+    CREATE an empty list for Fireblast (player's and creature’s)
+    SET game state to "RUNNING"
 
 ## Game Loop
 
@@ -64,8 +64,8 @@ WHILE game state is "RUNNING":
 
 ## End Game
 
-IF game state is "WIN":
-    DISPLAY "You Win!" message
-ELSE IF game state is "GAME OVER":
-    DISPLAY "Game Over" message
-DISPLAY final score
+    IF game state is "WIN":
+        DISPLAY "You Win!" message
+    ELSE IF game state is "GAME OVER":
+        DISPLAY "Game Over" message
+    DISPLAY final score
