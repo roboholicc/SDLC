@@ -1,6 +1,6 @@
 # Pseudocode for Fantasy Attack (Space Invaders Reskin)
 
-By: Lily and Miranda
+Team Members: Lily and Miranda
 
 ## Initialize Game
 
