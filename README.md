@@ -55,8 +55,6 @@ Welcome to **Medieval Space Invaders: Dragon Siege**, a medieval-themed twist on
 4. **Victory**: Eliminate all dragons.  
 5. **Defeat**: Lose all lives or let the dragons breach the castle wall.
 
----
-
 ## **Scoring**  
 
 - Defeat a dragon: **+10 points**  
