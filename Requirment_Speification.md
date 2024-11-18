@@ -36,6 +36,5 @@ Game progress will not be saved. It is based on replaying to get a higher score 
 The game memory dat may be sorted but only there high ranked scores
 
 ## Collaboration with Client
-We will gather feedback from users by asking them to rank us and give us any reports if they have any problems
- • How will you ensure the game is developing according to the client's needs?
-We will ensure the game developing by asking them to rate us and our game and we will have a place where they can report if there are any problems
+We will gather feedback from users by giving them the option to survey our program to ensure its of the quality thats expected, report any bugs, or simply make suggestions.
+Based off of the feedback we recieve, we will go through it and implement new features into our game in order to keep users satisfied with the end product.
