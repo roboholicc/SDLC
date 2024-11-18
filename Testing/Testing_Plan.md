@@ -1,6 +1,6 @@
 # Test Plan for Fantasy Attack (Space Invaders)
 
-Team Members: Lily Wright, Miranda Torres-Martinez Client: Ms. Kennedy/ Ms. Charlie Date: 11/18/24
+Team Members: Lily Wright, Miranda Torres-Martinez Client: Mrs. Kennedy/ Ms. Charlie Date: 11/18/24
 
 ## 1. Test Plan Overview
 
