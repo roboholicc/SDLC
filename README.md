@@ -28,24 +28,9 @@ Welcome to a **Medieval Space Invaders: Fantasy Attack**, a medieval-themed twis
 
 ## **Installation**  
 
-1. Clone the repository:  
-
-   ```bash
-   git clone https://github.com/username/medieval-space-invaders.git
-   cd medieval-space-invaders
-   ```
-
-2. Install required dependencies (if applicable):  
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the game:  
-
-   ```bash
-   python game.py
-   ```
+1. Download or clone this project from the repository.
+2. Open the game folder.
+3. Double-click the `fantasy_attack.html` file to play the game in your web browser
 
 ## **Rules**  
 
