@@ -2,7 +2,7 @@
 
 ## **Overview**  
 
-Welcome to **Medieval Space Invaders: Dragon Siege**, a medieval-themed twist on the classic arcade game! Step into the boots of a brave knight defending your castle from waves of fire-breathing dragons. Arm yourself with a trusty bow and arrows, aim true, and protect the realm from fiery destruction!
+Welcome to a **Medieval Space Invaders: Fantasy Attack**, a medieval-themed twist on the classic arcade game! Step into the boots of a brave knight defending your castle from waves of fire-breathing dragons. Arm yourself with a trusty bow and arrows, aim true, and protect the realm from fiery destruction!
 
 ## **Game Features**  
 
