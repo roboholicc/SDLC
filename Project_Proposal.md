@@ -1,6 +1,6 @@
 # Project Proposal: Fantasy Attack (Space Invaders)
 
-Team Members: Lily Wright, Miranda Torres - Martinez
+Team Members: Lily Wright, Miranda Torres-Martinez
 Client: Ms. Kennedy/ Ms. Charlie
 Date: 11/14/2024
 
