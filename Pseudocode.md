@@ -1,6 +1,6 @@
 # Pseudocode for Fantasy Attack (Space Invaders Reskin)
 
-Team Members: Lily and Miranda
+Team Members: Lily Wright, Miranda Torres-Martinez Client: Ms. Kennedy/ Ms. Charlie Date: 11/18/24
 
 ## Initialize Game
 
