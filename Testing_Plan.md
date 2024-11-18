@@ -1,4 +1,4 @@
-# Test Plan for Medieval-Themed Space Invaders (Dragons Edition)**
+# Test Plan for Fantasy Attack (Space Invaders)
 
 Team Members: Lily Wright, Miranda Torres-Martinez Client: Ms. Kennedy/ Ms. Charlie Date: 11/18/24
 
@@ -8,7 +8,7 @@ Team Members: Lily Wright, Miranda Torres-Martinez Client: Ms. Kennedy/ Ms. Char
 - **Scope**: Testing will cover initialization, core gameplay mechanics, collision detection, user interface, and game state transitions (Victory/Game Over).
 - **Exclusions**: Extended features such as multiplayer modes or additional levels (if not implemented).
 
-## **2. Features to Be Tested**
+## 2. Features to Be Tested
 
 1. **Initialization**:
    - Game starts with the knight positioned at the bottom of the screen.
